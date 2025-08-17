@@ -20,7 +20,7 @@ This repository contains my complete solution for the Backend Engineering Intern
 
 ## Final Document
 For convenience, the entire solution is also provided as a PDF:  
-[Final_Solution.pdf](./Final_Solution.pdf)
+[Final_Solution.pdf](./Backend_Engineering_CaseStudy_Solution_UnnatidharSharma.pdf.pdf)
 
 ---
 
